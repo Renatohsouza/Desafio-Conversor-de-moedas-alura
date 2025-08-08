@@ -9,7 +9,7 @@ import com.google.gson.Gson;
 public class ConversorMoedas {
 
     // chave da API
-    private static final String API_KEY = "84dfe40bfc0609a010f168e9";
+    private static final String API_KEY = "INSIRA SUA CHAVE DA API AQUI";
     private static final String BASE_URL = "https://v6.exchangerate-api.com/v6/" + API_KEY + "/latest/";
 
     public static void main(String[] args) {
@@ -75,3 +75,4 @@ public class ConversorMoedas {
         }
     }
 }
+
