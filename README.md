@@ -49,4 +49,4 @@ Você pode adicioná-la manualmente ao seu projeto no IntelliJ IDEA da seguinte 
 ### **Passo 3: Chave da API**
 A chave da API já está configurada no código-fonte na constante:
 ```java
-private static final String API_KEY = "84dfe40bfc0609a010f168e9";
+private static final String API_KEY = "INSIRA SUA CHAVE DA API AQUI";
